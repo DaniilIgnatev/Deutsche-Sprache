@@ -6,6 +6,7 @@ Haare
 das Auge
 die Augen
 die Lippe
+die Lippen
 ungefähr
 höflich
 verschlossen
@@ -20,8 +21,8 @@ die Haut
 dunkelhäutig
 sagen über wen
 ähnlich
-wecheln
-verwechseln
+wechseln
+etw. verwechseln
 die Stimme
 tief
 tiefer + ...
@@ -34,6 +35,3 @@ der Charakter
 fertig
 böser
 kontaktfreudig
-Es gibt kein Problem mit ihm im Gesrpäch.
-Dann grüß die beiden.
-Gut.
