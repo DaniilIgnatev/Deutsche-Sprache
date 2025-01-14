@@ -2,7 +2,7 @@ der Urlaub
 vorziehen
 beschreiben
 abhängen von
-abhängig sein
+abhängig
 unabhängig
 der Zweck
 Wahrscheinlich, hast du recht
@@ -25,3 +25,19 @@ außergewöhnlich
 die Empfehlung
 etw auszeichnen
 ausgezeichnet
+eigentlich
+Yeit verbringen
+das Meer
+einverstanden sein
+das Seebad/die Seebäder
+das Klima
+mild
+rau
+einzig
+bequem
+unbequem
+die Bequemlichkeit
+die Unbequemlichkeit
+bestehen
+bestehen in etw
+
