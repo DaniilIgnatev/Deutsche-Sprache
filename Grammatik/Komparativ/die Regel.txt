@@ -1,0 +1,19 @@
+Nominativ: 
+	   der kältere/kälteste Wind, das schlechtere/schlechteste Wetter, die dickere/dickste Wolke, die kälteren/kältesten Winde
+	   ein kälterer Wind,         ein schlechtes Wetter,               eine dickere Wolke,        kältere Winde
+Akkusativ: 
+           den kälteren Wind          das schlechtere Wetter,              die dickere                die dickeren
+           einen kälteren             ein schlechteres                     eine dickere               dickere
+Dativ:     
+           dem kälteren Wind,         dem schlechteren Wetter,             der dickeren Wolke,        den stärkeren Regenfällen
+           einem kälteren Wind        einem schlechteren                   einer dickeren	      stärkeren
+Genetiv:
+
+
+am schlechtesten/schlechter/schlecht/normal/gut/besser/am besten
+gern/lieber/am liebsten
+viel/mehr/am meisten
+
+bald/eher/am ehesten
+nah/näher/am nächsten
+hoch/höher/am höchsten
