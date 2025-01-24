@@ -10,7 +10,7 @@ Sicher
 sich vorbereiten
 etw. vorbereiten
 die Vorbereitung
-Arbeitssuche
+die Arbeitssuche
 die Bedeutung
 die Bedingung
 die Bedienung
@@ -19,6 +19,7 @@ die Erfahrung
 Ich stimme +D zu
 Ich bin einverstanden mit
 sich mit jdm in Verbindung setzen
+bleiben
 Lassen Sie uns in Kontakt bleiben
 besprechen
 die Antwort
