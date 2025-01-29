@@ -21,3 +21,6 @@ leihen +D -- lend
 
 der Laptop
 verbieten
+der Ausflug
+
+Kann sie ihm das Buch zurückgeben?
