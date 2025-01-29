@@ -14,3 +14,10 @@ der Schlüssel/die Schlüssel
 das Handy
 telefonieren
 eingeben
+
+das Kind
+leihen von/aus -- borrow
+leihen +D -- lend
+
+der Laptop
+verbieten

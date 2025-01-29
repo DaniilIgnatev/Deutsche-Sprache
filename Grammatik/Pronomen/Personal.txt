@@ -1,0 +1,16 @@
+Wer	Wen	Wem
+
+ich	mich	mir
+du	dich	dir
+er	ihn	ihm
+sie	sie	ihr
+es	es	ihm
+wir	uns	uns
+ihr	euch	euch
+sie	sie	Ihnen
+Sie	Sie	Ihnen
+
+Er schenkt (wem?) ihr Mutter ein Buch.
+Er schenkt (wen?) es seiner Mutter.
+Sie leihen ihm ihren Laptop.
+Sie leihen ihn ihrem Vater.
