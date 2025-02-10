@@ -8,7 +8,7 @@ das Fest/die Feste
 das Halstuch/die Halstücher
 der Hals
 das Kleid
-das Kostum
+das Kostüm
 die Boutique
 schikes Kleid
 gelb
@@ -17,9 +17,11 @@ nett
 das Zeichen
 bestimmt/unbestimmt
 das Lokal
+die Bediengung
 die Bedienung
 jmdn/etw bedienen
 bekannt
 berühmt
 die Aussicht
+das Aussehen
 etw vermuten
