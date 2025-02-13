@@ -1,13 +1,17 @@
 zwichen
+trocken
+etw trocknen
 der Trockner
 die Einkaufstasche
 der Einkaufswagon
 sei (seinst du)
+einpacken
 auspacken
 der Saft/die Säfte
 der Kofferraum
 in den Kühlschrank
 der Keller
+das Dach
 der Dachboden
 putzen
 das Putzmittel/die Putzmitteln
@@ -22,13 +26,19 @@ der Morgen
 morgen
 die Auswahl
 Ich möchte es aufschreiben
+verbinden
 Verbindungen
 günstig
 die Buchstabe
 Ich habe mich für etw interresiert
-nich einmal
+nicht einmal
 Ich habe eine Unterkunft gesucht.
 die Gegend
 prüfen
 in der Straße
+der Fußgänger
 in der Fußgängerzone
+Ich suche mir etw
+in der Nähe
+Es gibt noch etwas.
+Toll, oder?
