@@ -1,4 +1,7 @@
 zwichen
+feucht
+befeuchten
+der Befeuchter
 trocken
 etw trocknen
 der Trockner
@@ -29,9 +32,10 @@ Ich möchte es aufschreiben
 verbinden
 Verbindungen
 günstig
-die Buchstabe
+der Buchstabe/die Buchstaben
 Ich habe mich für etw interresiert
 nicht einmal
+die Unterkunft
 Ich habe eine Unterkunft gesucht.
 die Gegend
 prüfen
