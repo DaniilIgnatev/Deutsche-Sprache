@@ -3,12 +3,12 @@ der Kiosk
 
 brauchen
 
-benutzen
-gebrauchen
-verwenden
+benutzen использовать
+gebrauchen использовать
+verwenden применить
 
-consumiren
-verbrauchen
+consumiren потреблять
+verbrauchen потреблять
 
 das Fach
 das Gebiet
@@ -35,21 +35,25 @@ möglichst
 das Gewissen - conscience
 die Atmospäre
 minimal
-Durchschnitt
+der Durchschnitt
+im Durchschnitt
+durchschnittlich
 maximal
 das Gehalt
 das Gespräch
 
+der Unterschied
+unterscheiden
 Was ist der Unterschied zwischen?
 
 die Abteilung
 etw. aufgeben
 
-weißen/ich wusste/ich habe gewusst
+wissen/ich wusste/ich habe gewusst
 bringen/ich brachte/ich habe gebracht
 denken/ich dachte/ich habe gedacht
 ich kennen/ich kannte/ich habe gekannt
 
 ziemlich
-vorbeikommen
+vorbeikommen - come along
 
