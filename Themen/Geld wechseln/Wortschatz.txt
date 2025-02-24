@@ -1,13 +1,15 @@
-umtauschen/ich tausche um/ich habe umgetauscht 
+umtauschen/ich tauschte um/ich habe umgetauscht 
 wechseln
 der Wechsel
-Sie lost das
-Aufgaben lösen
 etw lösen
-Alkohol lost die Zunge
+das Problem lösen
+die Aufgabe
+Aufgaben lösen
+Alkohol löst die Zunge
 einen Wechsel einlösen
 die Wechselstelle
 die Bank
+der Kurs
 der Umtauschkurs
 überall
 die Währung
@@ -15,23 +17,36 @@ das Geld
 die Bescheinigung
 die Quittung
 die Rechnung
-etw ausstellen
-ausstellen etw
+Gemälde ausstellen - to exhibit
+Bescheinigung ausstellen - to issue
 etw begleichen
 Innerhalb
-etw erledigen - handle sth
+etw erledigen - to take care of sth
 die Angelegenheit erledigen
+die Angelegenheit lösen
 die Angelegenheit behandeln
 die Angelegenheit bearbeiten
-die Anzahlung
+die Anzahlung - the down payment
+die Restzahlung
 die Leistung
-etw leisten
 die Anzahlung leisten
-sich etw leisten
+etw leisten - to carry out
+sich etw leisten - to afford
+zahlen für
+die Zahlung
+bezahlen
+die Bezahlung
+ist eingegangen - beim Empfänger ankommen
 der Erfolg
 Erfolg haben
 erfolgreich
 erfolglos
-erfolgen
-die Restzahlung
 ein Konto eröffnen
+
+
+eröffnen - open figuratively
+erhalten - bekommen
+im übertragenen Sinne
+der Inhaber
+das Konnto
+das Formular ausfüllen
