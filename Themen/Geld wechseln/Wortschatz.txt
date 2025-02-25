@@ -18,7 +18,7 @@ die Bescheinigung
 die Quittung
 die Rechnung
 Gemälde ausstellen - to exhibit
-Bescheinigung ausstellen - to issue
+ein Dokument ausstellen - to issue
 etw begleichen
 Innerhalb
 etw erledigen - to take care of sth
@@ -27,6 +27,7 @@ die Angelegenheit lösen
 die Angelegenheit behandeln
 die Angelegenheit bearbeiten
 die Anzahlung - the down payment
+der Rest
 die Restzahlung
 die Leistung
 die Anzahlung leisten
@@ -46,7 +47,26 @@ ein Konto eröffnen
 
 eröffnen - open figuratively
 erhalten - bekommen
+sicher
+der Sinn
 im übertragenen Sinne
 der Inhaber
 das Konnto
 das Formular ausfüllen
+Ich habe vor, ... zu ...
+das Girokonto
+
+das Gewicht heben
+Geld abheben
+der Geldautomat
+selbstverständlich
+das Gehalt
+der Lohn
+Ungefähr
+etw Verdienen
+Geld verdienen
+Geld ausgeben
+die Steuer/die Steuern
+Geld zurücklegen
+berechnen
+
