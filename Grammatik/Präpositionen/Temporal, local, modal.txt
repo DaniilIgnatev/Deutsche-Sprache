@@ -31,3 +31,45 @@ Ich esse zum Frühstück ...
 ... im Gemüseladen gegenüber.
 Montags komme ich immer erst spat von der Arbeit nach Hause.
 Treffen wir uns vor dem ...
+
+
+ab (Dativ)
+aus (Dativ)
+bei (Dativ)
+nach (Dativ)
+seit (Dativ)
+von bis (Dativ)
+von an (Dativ)
+zu (Dativ)
+
+Ab dem elften November kann man etw besuchen.
+Dieses Kostüm stammt aus dem 19. Jahrhundert.
+Beim Essen hat sie mir von ihrem Geburtstagsfest erzählt.
+Nach Ostern fahren wir in die Türkei.
+Ich feire meinen Geburtstag schon seit Jahren nicht mehr.
+Von Weihnachten bis Ostern habe ich wirklich zu viel zu tun.
+Ich habe Fasching nie gemocht, schon von Kindheit an.
+Zu dieser Zeit ist er nie zu Hause.
+
+
+bis (Akkusativ)
+für (Akkusativ)
+gegen (Akkusativ)
+um (Akkusativ)
+
+Das Fest hat bis drei Uhr morgens gedauert.
+Er geht für drei Jahre zum Militär.
+Ich komme wahrscheinlich so gegen 18 Uhr.
+Um 19 Uhr.
+Mozart ist so um 1760 geboren.
+
+
+während (Genetiv) - during
+innerhalb (Genetiv) - within
+außerhalb (Genetiv) - beyond
+
+Während des Weihnachtsurlaubs kommt unsere ganze Familie zusammen.
+Du must das Formular innerhalb eines Monats abschicken.
+Außerhalb des Karnevals gibt es nur wenig Kostümfeste.
+
+
