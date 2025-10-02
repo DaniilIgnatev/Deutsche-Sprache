@@ -32,14 +32,13 @@
 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1031\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1031\langfenp1033 \snext0 \sqformat \spriority0 Normal;}{\*\cs10 \additive \ssemihidden \sunhideused \spriority1 Default Paragraph Font;}
 {\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl278\slmult1
 \widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs24\lang1033\langfe1033\kerning2\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 
-\snext11 \ssemihidden \sunhideused Normal Table;}}{\*\rsidtbl \rsid31419\rsid135747\rsid160057\rsid664920\rsid1013342\rsid1123066\rsid1208473\rsid1311905\rsid1338513\rsid1398466\rsid1470414\rsid1515575\rsid1516527\rsid1575393\rsid1771787\rsid2051354
-\rsid2054627\rsid2317709\rsid2444186\rsid2782186\rsid2954496\rsid3089869\rsid3873509\rsid4148588\rsid4217354\rsid4529573\rsid4613840\rsid4667075\rsid4674083\rsid5006227\rsid5111818\rsid5114499\rsid5187454\rsid5403383\rsid5793012\rsid5982233\rsid6369100
-\rsid6388051\rsid6585672\rsid6624395\rsid6690257\rsid6696264\rsid6973077\rsid6978707\rsid7538106\rsid8023314\rsid8207256\rsid8466130\rsid8548788\rsid8592873\rsid8655373\rsid8945336\rsid8998650\rsid9186746\rsid9587385\rsid9708964\rsid10096115\rsid10165921
-\rsid10173773\rsid10430491\rsid10490412\rsid10497140\rsid10502004\rsid10555988\rsid10695468\rsid10704172\rsid10909981\rsid11010736\rsid11282681\rsid11303500\rsid12128184\rsid12215594\rsid12326101\rsid12846429\rsid12924228\rsid12937630\rsid13061531
-\rsid13064740\rsid13396400\rsid13567071\rsid13582305\rsid13597919\rsid13778790\rsid14048992\rsid14056069\rsid14158394\rsid14186501\rsid14563044\rsid14762765\rsid15015619\rsid15165318\rsid15167466\rsid15276965\rsid15564695\rsid15729082\rsid15866619
-\rsid16547574\rsid16726570}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Ignatev Daniil (ATV SP TMS GMT)}{\creatim\yr2025\mo5\dy4\hr11\min16}
-{\revtim\yr2025\mo10\dy2\hr20\min58}{\version57}{\edmins0}{\nofpages9}{\nofwords984}{\nofchars5615}{\nofcharsws6586}{\vern81}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
-\paperw11900\paperh16840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
+\snext11 \ssemihidden \sunhideused Normal Table;}}{\*\rsidtbl \rsid31419\rsid135747\rsid160057\rsid664920\rsid1013342\rsid1208473\rsid1311905\rsid1338513\rsid1398466\rsid1470414\rsid1515575\rsid1575393\rsid1771787\rsid2054627\rsid2317709\rsid2444186
+\rsid2782186\rsid2954496\rsid3089869\rsid3873509\rsid4148588\rsid4217354\rsid4529573\rsid4613840\rsid4667075\rsid4674083\rsid5006227\rsid5111818\rsid5114499\rsid5187454\rsid5403383\rsid5793012\rsid5982233\rsid6369100\rsid6388051\rsid6585672\rsid6624395
+\rsid6690257\rsid6696264\rsid6973077\rsid6978707\rsid8023314\rsid8207256\rsid8466130\rsid8548788\rsid8592873\rsid8655373\rsid8945336\rsid8998650\rsid9186746\rsid9587385\rsid9708964\rsid10096115\rsid10165921\rsid10173773\rsid10430491\rsid10490412
+\rsid10497140\rsid10502004\rsid10555988\rsid10695468\rsid10704172\rsid10909981\rsid11010736\rsid11303500\rsid12128184\rsid12215594\rsid12326101\rsid12846429\rsid12924228\rsid12937630\rsid13061531\rsid13064740\rsid13396400\rsid13567071\rsid13582305
+\rsid13597919\rsid13778790\rsid14048992\rsid14056069\rsid14186501\rsid14762765\rsid15015619\rsid15167466\rsid15276965\rsid15564695\rsid15729082\rsid15866619\rsid16547574\rsid16726570}{\mmathPr\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1
+\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator Ignatev Daniil (ATV SP TMS GMT)}{\creatim\yr2025\mo5\dy4\hr11\min16}{\revtim\yr2025\mo10\dy2\hr19\min40}{\version55}{\edmins0}{\nofpages9}{\nofwords951}{\nofchars5422}
+{\nofcharsws6361}{\vern81}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}\paperw11900\paperh16840\margl1440\margr1440\margt1440\margb1440\gutter0\ltrsect 
 \widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\horzdoc\dghspace120\dgvspace120\dghorigin1701
 \dgvorigin1984\dghshow0\dgvshow3\jcompress\viewkind1\viewscale110\rsidroot1208473 \fet0{\*\wgrffmtfilter 2450}\ilfomacatclnup0\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
 \pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
@@ -401,23 +400,6 @@
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6973077 \hich\af31506\dbch\af31505\loch\f31506 detailiert}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid4613840 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid10704172 \hich\af31506\dbch\af31505\loch\f31506 der Preis}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6973077 
 \par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6585672 \hich\af31506\dbch\af31505\loch\f31506 die Stimme
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14158394 \hich\af31506\dbch\af31505\loch\f31506 der Albtraum}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid6585672 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1516527 \hich\af31506\dbch\af31505\loch\f31506 die Verantwortung}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2051354 \hich\af31506\dbch\af31505\loch\f31506 \hich\f31506  \'fc\loch\f31506 bernehmen}{\rtlch\fcs1 \af0 
-\ltrch\fcs0 \insrsid14158394 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid2051354 \hich\af31506\dbch\af31505\loch\f31506 eine Gruppe \hich\af31506\dbch\af31505\loch\f31506 erstellen
-\par 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1123066 \hich\af31506\dbch\af31505\loch\f31506 der Balkon
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14563044 \hich\af31506\dbch\af31505\loch\f31506 die \hich\af31506\dbch\af31505\loch\f31506 T\hich\af31506\dbch\af31505\loch\f31506 erasse}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid1123066 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14563044 \hich\af31506\dbch\af31505\loch\f31506 das Wohnzimmer
-\par \hich\af31506\dbch\af31505\loch\f31506 das Badezimmer
-\par \hich\af31506\dbch\af31505\loch\f31506 die Toilette
-\par \hich\af31506\dbch\af31505\loch\f31506 der \hich\af31506\dbch\af31505\loch\f31506 Gang
-\par \hich\af31506\dbch\af31505\loch\f31506 der Gar\hich\af31506\dbch\af31505\loch\f31506 ten
-\par \hich\af31506\dbch\af31505\loch\f31506 \hich\f31506 das B\'fc\loch\f31506 cherregal
-\par \hich\af31506\dbch\af31505\loch\f31506 der Nachttisch
-\par \hich\af31506\dbch\af31505\loch\f31506 der Nachtisch
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11282681 \hich\af31506\dbch\af31505\loch\f31506 \hich\f31506 der Kleiderb\'fc\loch\f31506 gel}{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid14563044 
-\par }{\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid11282681 \hich\af31506\dbch\af31505\loch\f31506 das Handtuch
 \par 
 \par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
 9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
@@ -564,8 +546,8 @@ fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
-ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000c071
-c59bce33dc01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e5000000000000000000000000b0e7
+5295c333dc01feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
 00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
 000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
 0000000000000000000000000000000000000000000000000105000000000000}}
