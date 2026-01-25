@@ -424,6 +424,7 @@ etw erledigen
 
 der Himmel
 der Bericht
+der Wetterbeticht
 versprechen
 der Bewohner
 der Landstrich
@@ -433,19 +434,48 @@ die Küste
 die Laune = die Stimmung
 der Schrott
 sein + zu + Infinitive
-der Tor
+das Tor
 der Bogen
 die Stimme
 der Stoff
+der Lernstoff
+der Kleidungsstoff
 der Handel
 stehen/stand/gestanden
 gehören/gehörte/gehört
+zu jmdm gehören
 sich aufregen
 aufgeregte Stimme
 zur Welt kommen vs. ums Leben kommen
 glücklicherweise
 nehmen/nahm/genommen
+etw. jmdn. aufnehmen
 der Verwandte
 damals
-etw. jmdn. aufnehmen
 Seither lebte er…
+
+das Ding
+allerdings
+ermittlung
+die Ermittlung
+ermitteln
+die Veranstaltung
+etw verdienen
+sich verdient
+schwingt euch auf dir Räder!
+rufen/rief/gerufen
+losfahren
+klingen/klang/geklungen
+ertönen/ertönte/ertönt
+streng
+Wo wollt ihr denn hin?
+die Neuheit
+wünschte
+behaupten
+bestehen
+das Bestehen
+wahr
+Er ist ein wahrer Experte darin!
+ungesund
+wenigstens
+der Snack
