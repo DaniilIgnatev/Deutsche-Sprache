@@ -479,3 +479,47 @@ Er ist ein wahrer Experte darin!
 ungesund
 wenigstens
 der Snack
+
+der Tritt
+die Pedalle treten = abfahren
+der Zweck
+die Zwecke
+der Mehrzweck
+der Raum
+die Halle - ein großer Raum
+das Herz
+im Herzen der Küstenstadt
+finden/fand/gefunden
+der Stand
+an denen (D pl) ...
+begeistern
+der Geschmack
+das Zeichen
+das Fragezeichen
+sich etw anschauen
+plötzlich
+aufregen
+er blickte aufgeregt auf seine Uhr
+zielstrebig
+die Mitte
+das Fehlen
+fehlen
+verfehlen
+riesig
+der Würfel
+die Schrift
+er ist ein echter Superstar
+der Eindruck
+beeindruckte Gesichter
+das Tollste
+Hände heben
+Augenbrauen heben
+bilden
+die große Menschentraube gebildet
+im Blick behalten
+akkurat
+der Kamm
+die Haare kämmen
+stolz
+der Auftritt
+raunen = flüstern
